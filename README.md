@@ -3,7 +3,7 @@ GCC-like Brainfuck compiler with llvm
 ## Building bfcc (the llvmbf compiler)
 1. Install all the necessary llvm tools and sdk's
 2. Clone this repo: ```git clone https://github.com/aceinetx/llvmbf```
-3. Cd into it and create the build directory: ```cd llvmbf && mkdir build```
+3. Cd into it and create the build directory: ```cd llvmbf && mkdir build && cd build```
 4. Configure cmake: ```cmake ..```
 5. Build it: ```make -j4```
 
