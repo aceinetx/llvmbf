@@ -1,5 +1,5 @@
 # llvmbf
-GCC-like Brainfuck compiler with llvm
+LLVM Brainfuck
 ## Building bfcc (the llvmbf compiler)
 1. Install all the necessary llvm tools and sdk's
 2. Clone this repo: ```git clone https://github.com/aceinetx/llvmbf```
